@@ -12,3 +12,8 @@ tr{
 td{
 	border:1px solid black;
 }
+caption{
+	font-weight:bold;
+	font-size: 1.2em;
+    margin-bottom: 10px;
+}
